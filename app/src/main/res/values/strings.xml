@@ -7,5 +7,13 @@
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
-    <string name="bot1txt">Power</string>
+    <string name="map">MAP</string>
+    <string name="menu">MENU</string>
+    <string name="dest">DEST</string>
+    <string name="enter">ENT</string>
+    <string name="back">BACK</string>
+    <string name="off">OFF</string>
+    <string name="info">INFO</string>
+    <string name="disp">DISP</string>
+    <string name="txt">TXT</string>
 </resources>
